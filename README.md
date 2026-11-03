@@ -23,7 +23,7 @@ I offer beginners training programs in data analysis, visualization, and data-dr
 *A glimpse of some of the projects I've been working on.*
 
 **KML Sales Analysis between year 2015 to 2018.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](Screenshot 2026-10-17 194146.png)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
