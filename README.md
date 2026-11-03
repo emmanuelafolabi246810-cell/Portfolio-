@@ -2,7 +2,7 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Afolabi TEmitope 🤓, a data analyst, educator, and Electrical Engineer with a zeal for turning data into insights. With experience across sales, operations, finance, and customer service, I help businesses solve problems and improve growth.
+Hello! I'm Afolabi Temitope 🤓, a data analyst, educator, and Electrical Engineer with a zeal for turning data into insights. With experience across sales, operations, finance, and customer service, I help businesses solve problems and improve growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
@@ -22,7 +22,7 @@ I offer beginners training programs in data analysis, visualization, and data-dr
 
 *A glimpse of some of the projects I've been working on.*
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**KML Sales Analysis between year 2015 to 2018.**
 ![image](1 anietie etuk data analytics car project.jpeg)
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
