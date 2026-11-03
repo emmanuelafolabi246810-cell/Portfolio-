@@ -23,9 +23,10 @@ I offer beginners training programs in data analysis, visualization, and data-dr
 *A glimpse of some of the projects I've been working on.*
 
 **KML Sales Analysis between year 2015 to 2018.**
+
 ![image](Screenshot 2026-10-17 194146.png)
 
-My final Capstone Project with Skill Academy.
+My final Capstone using MS- Excel with SkillAhead Academy
 
 [Read More](https://lnkd.in/p/etg9RFah)
 
@@ -33,18 +34,7 @@ My final Capstone Project with Skill Academy.
 
 ![image](WELL LIFE.png)
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](3 anietie etuk data analytics agro project.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
-
+My final Capstone using Power BI with SkillAhead Academy
 
 ## CONTACT DETAILS
 
