@@ -8,7 +8,7 @@ Hello! I'm Afolabi Temitope 🤓, a data analyst, educator, and Electrical Engin
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As the Junior Analyst, I provide analytical services for businesses and also tutor beginner in the field.*
+*As a Junior Data Analyst, I provide analytical services for businesses and also tutor beginner in the field.*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
@@ -23,6 +23,7 @@ I offer beginners training programs in data analysis, visualization, and data-dr
 *A glimpse of some of the projects I've been working on.*
 
 **KML Sales Analysis between year 2015 to 2018.**
+
 
 ![image](Screenshot 2026-10-17 194146.png)
 
@@ -43,15 +44,15 @@ My final Capstone using Power BI with SkillAhead Academy
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:afolabi246810@gmail.com">afolabi246810@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 809-348-2269</td>
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Ogun State, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
@@ -59,11 +60,7 @@ My final Capstone using Power BI with SkillAhead Academy
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
+      <td><a href="www.linkedin.com/in/afolabi246810">The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
