@@ -29,9 +29,9 @@ My final Capstone Project with Skill Academy.
 
 [Read More](https://lnkd.in/p/etg9RFah)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+**A Breakdown of Patient Record in Well-Life Hospital .**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](WELL LIFE.png)
 
 On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
 
