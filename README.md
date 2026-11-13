@@ -60,7 +60,7 @@ My final Capstone using Power BI with SkillAhead Academy
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="www.linkedin.com/in/afolabi246810">The things I do daily on LinkedIn</a></td>
+      <td><a href=www.linkedin.com/in/afolabi246810>The things I do daily on LinkedIn</a></td>
     </tr>
   </tbody>
 </table>
