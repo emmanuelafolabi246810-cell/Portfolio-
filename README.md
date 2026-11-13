@@ -56,7 +56,7 @@ My final Capstone using Power BI with SkillAhead Academy
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href=MY CV.pdf>Download my CV</a></td>
+      <td><a href=https://drive.google.com/file/d/1nuEnJlrrfHQ7lvoJfmjpzxNPe7vObxoa/view?                  usp=drive_link>Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
