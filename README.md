@@ -2,13 +2,13 @@
 <!--Section 1: Introduce your self-->
 ## ABOUT ME
 
-Hello! I'm Afolabi Temitope 🤓, a data analyst, educator, and Electrical Engineer with a zeal for turning data into insights.I help businesses solve problems and improve growth.
+Hello! I'm Afolabi Temitope 🤓, a data analyst, educator, and Electrical Engineer with a zeal for turning data into insights. I help businesses solve problems and improve growth.
 
 
 <!--Mention your top/relevant skills here - core and soft skills-->
 ## WHAT I DO
 
-*As a Junior Data Analyst, I provide analytical services for businesses and also tutor beginner in the field.*
+*As a Junior Data Analyst, I provide analytical services for businesses and also tutor beginners in the field.*
 
 **- ✅ Data Analytics Consulting.**
 I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
